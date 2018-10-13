@@ -1,1 +1,3 @@
 # JavaCustomerDao
+
+实现基于Console对于数据库中数据进行增删改查的操作，是一个简单的JDBC demo
